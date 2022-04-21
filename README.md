@@ -1,4 +1,13 @@
-<h1 align="center"> Projeto de Java </h1> 
+<h1 align="center"> Projeto de Java </h1>
+
+<div align="center">
+<img height="180em" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>
+<img height="180em" src="https://www.iesp.edu.br/images/og_imagem.jpg"/> 
+
+
+</div>
+
+
 
 <h2 align="center"> Desafios em Java, que fazem parte do Projeto de Java em Grupo. </h2> 
 
