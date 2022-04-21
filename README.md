@@ -2,7 +2,7 @@
 
 <h2 align="center"> Desafios em Java, que fazem parte do Projeto de Java em Grupo. </h2> 
 
-<h3 align="center">Grupo:</h3>
+<h3 align="center">💻Grupo:💻</h3>
 
 <h4 align="center">
     
