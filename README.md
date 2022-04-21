@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/luanantony/" target="_blank">Luan Antony Rocha de Aguiar</a>
 
-<a href="https://www.linkedin.com/" target="_blank">Wagner de Sousa Patrício Junior</a>
+<a href="https://www.linkedin.com/in/wagner-patricio-7b4743219/">Wagner de Sousa Patrício Junior</a>
 </h4>
 
 ---
