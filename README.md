@@ -1,17 +1,21 @@
-# Projeto de Java
+<h1 align="center"> Projeto de Java </h1> 
 
-## Desafios em Java, que fazem parte do Projeto de Java em Grupo.
+<h2 align="center"> Desafios em Java, que fazem parte do Projeto de Java em Grupo. </h2> 
 
-#### Grupo:
-Carlos Augusto Alves Bezerra de Santana;
+<h3 align="center">Grupo:</h3>
 
-Ewerton Alexander de Oliveira Batista;
+<h4 align="center">
+    
+<a href="https://www.linkedin.com/in/carlosaugustoabsantana/" target="_blank">Carlos Augusto Alves Bezerra de Santana</a>!
 
-Hugo Oliveira Facundo de Almeida;
+<a href="https://www.linkedin.com/in/ewerton-alexander-oliveira-batista-780869232/" target="_blank">Ewerton Alexander de Oliveira Batista</a>!
 
-Luan Antony Rocha de Aguiar;
+<a href="https://www.linkedin.com/in/hufacundo/">Hugo Oliveira Facundo de Almeida</a>!
 
-Wagner de Sousa Patrício Juniorpo:
+<a href="https://www.linkedin.com/in/luanantony/" target="_blank">Luan Antony Rocha de Aguiar</a>!
+
+<a href="https://www.linkedin.com/" target="_blank">Wagner de Sousa Patrício Junior</a>!
+</h4>
 
 ---
 ### Desafio proposto na disciplina de Lógica de Programação I, pelo Professor Thiago Vasconcelos.
@@ -33,7 +37,7 @@ https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/lojaCD.java
 
 ## Desafio 02:
 
-###Este desafio ainda não está completo, faltando ainda criar a Classe no programa.
+### Este desafio ainda não está completo, faltando ainda criar a Classe no programa.
 
 ![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menor.jpg)
 
