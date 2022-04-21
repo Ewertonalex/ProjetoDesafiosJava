@@ -28,10 +28,12 @@
 
 ---
 
-<h2 align="center">Desafio proposto na disciplina de Lógica de Programação I, pelo Professor Thiago Vasconcelos.</h2>
+<h3 align="center">Desafio proposto na disciplina de Lógica de Programação I, pelo Professor Thiago Vasconcelos.</h3>
+
+---
 
 
-# Desafios:
+<h1 align="center"> Desafios </h1>
 
 ## Desafio 01:
 
