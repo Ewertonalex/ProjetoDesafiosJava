@@ -7,29 +7,29 @@ public class menorNumero {
     {
         Scanner entrada = new Scanner(System.in);
 
-        int numero1;
-        int numero2;
-        int numero3;
+        int num1;
+        int num2;
+        int num3;
         int menor;
 
 
         System.out.printf("Digite um número: ");
-        numero1 = entrada.nextInt();
+        num1 = entrada.nextInt();
 
         System.out.printf("Digite outro número: ");
-        numero2 = entrada.nextInt();
+        num2 = entrada.nextInt();
 
         System.out.printf("Digite outro número: ");
-        numero3 = entrada.nextInt();
+        num3 = entrada.nextInt();
 
 
-        if( numero1 < numero2 && numero1 < numero3) {
-            menor = numero1;
+        if( num1 < num2 && num1 < num3) {
+            menor = num1;
         }
-        else if( numero2 < numero1 && numero2 < numero3 ) {
-            menor = numero2;
+        else if( num2 < num1 && num2 < num3 ) {
+            menor = num2;
         } else {
-            menor = numero3; }
+            menor = num3; }
 
         System.out.printf("\nO menor número digitado foi: %d\n",menor);
 
