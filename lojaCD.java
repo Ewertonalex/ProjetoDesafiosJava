@@ -18,18 +18,22 @@ public class lojaCD {
 
 
         cor = entrada.nextInt();
+        
+        
 
-        if (cor == 1) {
-            System.out.print("Seu CD é VERDE!\nValor: R$" +valor1 );
-        } else if (cor == 2) {
-            valor1 = valor1 + 10;
-            System.out.print("Seu CD é AZUL!\nValor: R$" +valor1);
-        } else if (cor == 3) {
-            valor1 = valor1 + 20;
-            System.out.print("Seu CD é AMARELO!\nValor: R$" +valor1);
-        } else if (cor == 4) {
-            valor1 = valor1 + 30;
-            System.out.print("Seu CD é VERMELHO!\nValor: R$" +valor1);
+        switch (cor){
+            case 1:
+                System.out.print("Seu CD é VERDE!\nValor: R$" +valor1 );
+                break;
+            case 2:
+                System.out.print("Seu CD é VERDE!\nValor: R$" +valor1 );
+                break;
+            case 3:
+                System.out.print("Seu CD é VERDE!\nValor: R$" +valor1 );
+                break;
+            case 4:
+                System.out.print("Seu CD é VERDE!\nValor: R$" +valor1 );
+                break;
         }
 
     }
