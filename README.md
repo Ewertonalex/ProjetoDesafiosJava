@@ -41,7 +41,7 @@
 
 ## Código - Resposta:
 
-https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/lojaCD.java
+https://github.com/Ewertonalex/ProjetoJava/blob/main/lojaCD.java
 
 ![](https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/reloja.jpg)
 
@@ -55,7 +55,7 @@ https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/lojaCD.java
 
 ## Código - Resposta:
 
-https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menorNumero.java
+https://github.com/Ewertonalex/ProjetoJava/blob/main/menorNumero.java
 
 ![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/remenor.jpg)
 
@@ -67,7 +67,7 @@ https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menorNumero.java
 
 ## Código - Resposta:
 
-https://github.com/Ewertonalex/Numero-Inteiro-Java/blob/main/parimpar.java
+https://github.com/Ewertonalex/ProjetoJava/blob/main/parimpar.java
 
 ![](https://github.com/Ewertonalex/Numero-Inteiro-Java/blob/main/reparimpar.jpg)
 
