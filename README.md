@@ -49,8 +49,6 @@ https://github.com/Ewertonalex/ProjetoJava/blob/main/lojaCD.java
 
 ## Desafio 02:
 
-### Este desafio ainda não está completo, faltando ainda criar a Classe no programa.
-
 ![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menor.jpg)
 
 ## Código - Resposta:
@@ -75,6 +73,6 @@ https://github.com/Ewertonalex/ProjetoJava/blob/main/parimpar.java
 
 
 <h4 align="center">
-    Repositório feito por <a href="https://www.linkedin.com/in/ewerton-alexander-oliveira-batista-780869232/" target="_blank">Ewerton Alexander</a>!
+    Repositório feito pelo <a>Grupo do Projeto</a>!
     <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </h4>
