@@ -38,19 +38,37 @@
 
 
 ---
+<div>
+<h2 align="center">Projeto Integrador</h2>
 
-<h3 align="center">Projeto Integrador traz desafios do assuntos vistos em sala de aula, para resolução em grupo e traz o Projeto Princial que tem o objetivo de....</h3>
+  <h3>Pojeto Principal: </h3><b>Tem por finalidade aplicar os conhecimentos em Java adquiridos em sala de aula para realizar uma validação de dados em um arquivo .txt, verificando se os arquivos estão com os espaçamentos e quantia de caracteres definidas em um padrão pré elaborado.</b>
+  <br></br>
+   <h3>Atividades Complementares: </h3><b>Durante o Projeto alguns Desafios foram propostos pelo professor com asssuntos abordados em sala de aula, para resolução em grupo, tais assuntos fazem referência ao que iremos usar no Projeto Principal.</b>
+</div>
 
 ---
 
+## Gerência do projeto:
 
-<h1 align="center"> Desafios </h1>
+### Backlog:
+O nosso projeto foi desenvolvido através de uma construção coletiva utilizando a metodologia ágil SCRUM, onde foi definido todo o escopo no backlog, mapeando todas as atividades necesárias para a conclusão da nossa aplicação.
+### Dailys:
+Nossas Dailys são realizadas de segunda a sexta-feira, de forma remota, com duração máxima de 15 minutos, sempre após a aula do dia na UNIESP.
+### ClickUp:
+Utilizamos a plataforma ClickUp para construir o nosso quadro Kaban e acompanhar a evolução do nosso projeto, onde foram divididas as tarefas pelo grupo estruturando as Sprint's em tasks e definindo as colunas em  "fazer", "fazendo", "feito", "testando" e "testado".
 
-## Desafio 01:
+
+## Sprint's <br>
+> Sprint 1️⃣ Resolução do Desafio 01   |   Status: Concluído ✅ <br><br>
+> Sprint 2️⃣ Resolução do Desafio 02   |   Status: Concluído ✅ <br><br>
+> Sprint 3️⃣ Resolução do Desafio 03   |   Status: Concluído ✅ <br><br>
+
+### Sprint 01:
+#### Desafio:
 
 ![](https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/lojacd.jpg)
 
-## Código - Resposta:
+### Código - Resposta:
 
 https://github.com/Ewertonalex/ProjetoJava/blob/main/lojaCD.java
 
@@ -58,11 +76,12 @@ https://github.com/Ewertonalex/ProjetoJava/blob/main/lojaCD.java
 
 ---
 
-## Desafio 02:
+### Sprint 02:
+#### Desafio:
 
 ![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menor.jpg)
 
-## Código - Resposta:
+### Código - Resposta:
 
 https://github.com/Ewertonalex/ProjetoJava/blob/main/menorNumero.java
 
@@ -70,11 +89,12 @@ https://github.com/Ewertonalex/ProjetoJava/blob/main/menorNumero.java
 
 ---
 
-## Desafio 03:
+### Sprint 03:
+#### Desafio:
 
-### Desenvolva um algoritmo capaz de verificar se os números inteiros, dados como entrada, são  par ou ímpar.
+##### Desenvolva um algoritmo capaz de verificar se os números inteiros, dados como entrada, são  par ou ímpar.
 
-## Código - Resposta:
+### Código - Resposta:
 
 https://github.com/Ewertonalex/ProjetoJava/blob/main/parimpar.java
 
