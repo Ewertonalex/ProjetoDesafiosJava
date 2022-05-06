@@ -2,7 +2,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+nosso+Repositório..." /></a>
 </h1>
 
-<h2 align="center"> Este o é Projeto Integrador, do Segundo Período dos Cursos de Sistemas da Internet e Sistemas da Informação, da UNIESP. Projeto realizado na Disciplina de Linguagens da Programação I, idealizado pelo Professor Thiago Vasconcelos.</h2> 
+<h2 align="center"> Este o é Projeto Integrador, do Segundo Período dos Cursos de Sistemas da Internet e Sistemas da Informação, da UNIESP.<br> Projeto realizado na Disciplina de Linguagens da Programação I, idealizado pelo Professor Thiago Vasconcelos.</h2> 
 
 <div align="center">
 <img height="120em" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>
