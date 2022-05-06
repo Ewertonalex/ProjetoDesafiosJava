@@ -48,7 +48,7 @@
 
 ---
 
-## Gerência do projeto:
+<h2 align="center">Gerência do projeto:</h2>
 
 ### Backlog:
 O nosso projeto foi desenvolvido através de uma construção coletiva utilizando a metodologia ágil SCRUM, onde foi definido todo o escopo no backlog, mapeando todas as atividades necesárias para a conclusão da nossa aplicação.
@@ -58,10 +58,12 @@ Nossas Dailys são realizadas de segunda a sexta-feira, de forma remota, com dur
 Utilizamos a plataforma ClickUp para construir o nosso quadro Kaban e acompanhar a evolução do nosso projeto, onde foram divididas as tarefas pelo grupo estruturando as Sprint's em tasks e definindo as colunas em  "fazer", "fazendo", "feito", "testando" e "testado".
 
 
-## Sprint's <br>
+<h2 align="center">Sprint's</h2>
 > Sprint 1️⃣ Resolução do Desafio 01   |   Status: Concluído ✅ <br><br>
 > Sprint 2️⃣ Resolução do Desafio 02   |   Status: Concluído ✅ <br><br>
 > Sprint 3️⃣ Resolução do Desafio 03   |   Status: Concluído ✅ <br><br>
+
+---
 
 ### Sprint 01:
 #### Desafio:
