@@ -65,8 +65,6 @@ Utilizamos a plataforma ClickUp para construir o nosso quadro Kaban e acompanhar
 ---
 
 ### Sprint 01:
-#### Desafio:
-
 
 ---
 
