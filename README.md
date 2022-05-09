@@ -1,19 +1,15 @@
-<h1 align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+nosso+Repositório..." /></a>
-</h1>
-
-<h2 align="center"> Este o é Projeto Integrador, do Segundo Período dos Cursos de Sistemas da Internet e Sistemas da Informação, da UNIESP.<br> Projeto realizado na Disciplina de Linguagens da Programação I, idealizado pelo Professor Thiago Vasconcelos.</h2> 
+<h2 align="center"> Este Repositório é para os Desafios em grupo propostos em sala.<br>Disciplina de Linguagens da Programação<br>Professor Thiago Vasconcelos.</h2> 
 
 <div align="center">
-<img height="120em" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>
-<img height="120em" src="https://www.iesp.edu.br/images/og_imagem.jpg"/> 
+<img height="90em" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>
+<img height="90em" src="https://www.iesp.edu.br/images/og_imagem.jpg"/> 
 </div>
 
 <div align="center">
   
 ---
   
-### 💻Autores:💻
+### 💻Grupo:💻
   
 <h4>
     
@@ -39,32 +35,46 @@
 
 ---
 <div>
-<h2 align="center">Projeto Integrador</h2>
+<h2 align="center">Desafios</h2>
 
-  <b>Tem por finalidade aplicar os conhecimentos em Java adquiridos em sala de aula para realizar uma validação de dados em um arquivo .txt, verificando se os arquivos estão com os espaçamentos e quantia de caracteres definidas em um padrão pré elaborado.</b>
-  
+  <b>Durante o Projeto Integrador alguns Desafios foram propostos pelo professor com asssuntos abordados em sala de aula, para resolução em grupo, tais assuntos fazem referência ao que iremos usar no Projeto Principal.</b>
 </div>
 
 ---
 
-<h2 align="center">Gerência do projeto:</h2>
+### Desafio 01:
 
-### Backlog:
-O nosso projeto foi desenvolvido através de uma construção coletiva utilizando a metodologia ágil SCRUM, onde foi definido todo o escopo no backlog, mapeando todas as atividades necesárias para a conclusão da nossa aplicação.
-### Dailys:
-Nossas Dailys são realizadas de segunda a sexta-feira, de forma remota, com duração máxima de 15 minutos, sempre após a aula do dia na UNIESP.
-### ClickUp:
-Utilizamos a plataforma ClickUp para construir o nosso quadro Kaban e acompanhar a evolução do nosso projeto, onde foram divididas as tarefas pelo grupo estruturando as Sprint's em tasks e definindo as colunas em  "fazer", "fazendo", "feito", "testando" e "testado".
+![](https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/lojacd.jpg)
 
+### Código - Resposta:
 
-<h2 align="center">Sprint's</h2>
-> Sprint 1️⃣   |   Status: Concluído ✅ <br><br>
-> Sprint 2️⃣   |   Status: Em Andamento 🅰 <br><br>
-> Sprint 3️⃣   |   Status: Concluído ✅ <br><br>
+https://github.com/Ewertonalex/Desafios_Java_P2_em_Grupo/blob/main/Desafios/lojaCD.java
+
+![](https://github.com/Ewertonalex/Loja-de-CD---Java/blob/main/reloja.jpg)
 
 ---
 
-### Sprint 01:
+### Desafio 02:
+
+![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/menor.jpg)
+
+### Código - Resposta:
+
+https://github.com/Ewertonalex/Desafios_Java_P2_em_Grupo/blob/main/Desafios/menorNumero.java
+
+![](https://github.com/Ewertonalex/Menor-N-mero-Java/blob/main/remenor.jpg)
+
+---
+
+### Desafio 03:
+
+##### Desenvolva um algoritmo capaz de verificar se os números inteiros, dados como entrada, são  par ou ímpar.
+
+### Código - Resposta:
+
+https://github.com/Ewertonalex/Desafios_Java_P2_em_Grupo/blob/main/Desafios/parimpar.java
+
+![](https://github.com/Ewertonalex/Numero-Inteiro-Java/blob/main/reparimpar.jpg)
 
 ---
 
@@ -73,3 +83,7 @@ Utilizamos a plataforma ClickUp para construir o nosso quadro Kaban e acompanhar
     Repositório feito pelo <a>Grupo do Projeto</a>!
     <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </h4>
+
+
+
+
