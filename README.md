@@ -49,6 +49,26 @@
 
 <h2 align="center">Desafios:</h2>
 
+### Desafio 01:
+
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/lojacd.jpg"> 
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reloja.jpg"> 
+
+---
+
+### Desafio 02:
+
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/menor.jpg"> 
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/remenor.jpg"> 
+
+---
+
+### Desafio 03:
+
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/parimpar.jpg"> 
+<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reparimpar.jpg"> 
+
+
 
 
 <h4 align="center">
