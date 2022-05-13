@@ -69,7 +69,7 @@
 <img height="400em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reparimpar.jpg"> 
 
 
-
+---
 
 <h4 align="center">
     Repositório feito pelo <a>Grupo do Projeto</a>!
