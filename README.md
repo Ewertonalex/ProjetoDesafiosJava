@@ -65,8 +65,8 @@
 
 ### Desafio 03:
 
-<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/parimpar.jpg"> 
-<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reparimpar.jpg"> 
+<img height="100em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/parimpar.jpg"> 
+<img height="400em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reparimpar.jpg"> 
 
 
 
