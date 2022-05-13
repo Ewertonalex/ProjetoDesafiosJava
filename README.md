@@ -51,7 +51,7 @@
 
 ### Desafio 01:
 
-<img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/lojacd.jpg"> 
+<img height="300em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/lojacd.jpg"> 
 <img height="200em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reloja.jpg"> 
 
 ---
