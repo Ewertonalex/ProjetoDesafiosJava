@@ -11,15 +11,14 @@ public class Principal {
         Scanner sc = new Scanner(System.in);
 
         String nome;
-        int num, op;
+        int cpf, op;
         float saldo, valor;
 
-/* Iniciando o menu de escolha*/
+        // Iniciando o menu de escolha
 
         do{
             System.out.println();
-            System.out.println("-- Olá, bem vindo a sua Conta Bancária --");
-            System.out.println();
+            System.out.println("-- Olá, bem vindo a sua Conta Bancária --\n");
             System.out.println("1 - Cadastrar conta");
             System.out.println("2 - Mostrar dados");
             System.out.println("3 - Depositar valor");
@@ -36,10 +35,10 @@ public class Principal {
                     sc.nextLine();
                     nome = sc.nextLine();
                     System.out.print("Digite o CPF: ");
-                    num = sc.nextInt();
+                    cpf = sc.nextInt();
                     System.out.print("Digite o depósito inicial: ");
                     saldo = sc.nextFloat();
-                    minhaConta.inseredados(nome, num, saldo);
+                    minhaConta.inseredados(nome, cpf, saldo);
                     break;
 
                 case 2 :
@@ -53,17 +52,19 @@ public class Principal {
                     break;
 
                 case 4:
-                    minhaConta.mostrarsal();
+                    minhaConta.mostrarsaldo();
                     System.out.println("Digite o valor que deseja sacar: ");
                     valor = sc.nextFloat();
                     minhaConta.sacar(valor);
                     break;
 
                 case 5:
-                    minhaConta.mostrarsal();
+                    minhaConta.mostrarsaldo();
                     break;
             }
         }while(op != 0);
+
+        sc.close();
     }
 }
 

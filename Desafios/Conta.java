@@ -14,21 +14,27 @@ public class Conta {
 
     }
     public int getNumero() {
+
         return CPF;
     }
     public void setNumero(int Numero) {
+
         this.CPF = Numero;
     }
     public String getCliente() {
+
         return Cliente;
     }
     public void setCliente(String Cliente) {
+
         this.Cliente = Cliente;
     }
     public double getSaldo() {
+
         return Saldo;
     }
     public void setSaldo(double Saldo) {
+
         this.Saldo = Saldo;
     }
 
@@ -41,6 +47,7 @@ public class Conta {
         }
     }
     void depositar(double quantidade) {
+
         this.Saldo = this.Saldo + quantidade;
     }
     void inseredados(String a, int b, float c){
@@ -55,7 +62,7 @@ public class Conta {
         System.out.println("CPF: " + this.getNumero());
         System.out.println("Saldo atual: " + this.getSaldo());
     }
-    void mostrarsal(){
+    void mostrarsaldo(){
         System.out.println("Saldo Atual: " + this.getSaldo());
 
     }
