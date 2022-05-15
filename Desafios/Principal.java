@@ -1,4 +1,4 @@
-package Principal;
+package Desafios;
 
 import java.util.Scanner;
 
@@ -13,6 +13,8 @@ public class Principal {
         String nome;
         int num, op;
         float saldo, valor;
+
+/* Iniciando o menu de escolha*/
 
         do{
             System.out.println();
