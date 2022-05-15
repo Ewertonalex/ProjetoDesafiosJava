@@ -1,4 +1,4 @@
-package exercicio;
+package Principal;
 
 import java.util.Scanner;
 

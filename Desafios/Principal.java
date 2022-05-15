@@ -1,4 +1,4 @@
-package Desafios;
+package Principal;
 
 import java.util.Scanner;
 
