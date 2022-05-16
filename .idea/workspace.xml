@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e41fcdfe-c156-4924-a034-c9e4f6d9ac9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Conta Bancária/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/contaBancaria/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Conta Bancária/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/contaBancaria/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
