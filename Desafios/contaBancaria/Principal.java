@@ -27,6 +27,8 @@ public class Principal {
             System.out.println("0 - Sair");
             op = sc.nextInt();
 
+            //Inicio dos casos para escolha
+
             switch(op){
 
                 case 1 :
@@ -67,6 +69,3 @@ public class Principal {
         sc.close();
     }
 }
-
-
-
