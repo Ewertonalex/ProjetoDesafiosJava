@@ -68,6 +68,12 @@
 <img height="100em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/parimpar.jpg"> 
 <img height="400em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/reparimpar.jpg"> 
 
+---
+
+### Desafio 04:
+
+<img height="400em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/ted4.jpg"> 
+<img height="400em" src="https://github.com/Ewertonalex/ProjetoDesafiosJava/blob/main/Desafios/img/rested4.jpg"> 
 
 ---
 
